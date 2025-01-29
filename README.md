@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+    <img src="assets/readme-header.svg" />
+</div>
+
+## Github Stats
 
 ![kiyotamasayuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyotamasayuki&show_icons=true&count_private=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyotamasayuki&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
